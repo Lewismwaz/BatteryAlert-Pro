@@ -116,4 +116,4 @@ This project is licensed under the [MIT License](https://github.com/Lewismwaz/Ba
 
 ## 💬 Feedback or Issues?
 
-Feel free to [open an issue](https://github.com/Lewismwaz/BatteryAlertPro/issues) or submit a pull request if you have suggestions or improvements!
+Feel free to [open an issue](https://github.com/Lewismwaz/BatteryAlert-Pro/issues) or submit a pull request if you have suggestions or improvements!
