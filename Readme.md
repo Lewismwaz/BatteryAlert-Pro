@@ -103,7 +103,7 @@ Make sure replacement files retain the same names and `.wav` format.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this utility.
+This project is licensed under the [MIT License](https://github.com/Lewismwaz/BatteryAlert-Pro/blob/main/LICENSE). You are free to use, modify, and distribute this utility.
 
 ---
 
